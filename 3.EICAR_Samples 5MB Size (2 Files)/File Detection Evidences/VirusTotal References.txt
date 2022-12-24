@@ -1,0 +1,5 @@
+eicar_test_zip_5MB.zip
+Results: https://www.virustotal.com/gui/file/616302ef1ff5dc3b31522e91089c58cc9b92740196f35a66b8caf4cd6585c1cb
+
+eicar_test_xls_5MB.xls:
+Results: https://www.virustotal.com/gui/file/196ebfd3afd2a93ca10a10944155ec073f239552063807fc4946f36b281a1b00
