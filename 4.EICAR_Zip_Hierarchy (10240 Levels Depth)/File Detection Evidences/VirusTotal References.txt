@@ -1,0 +1,11 @@
+eicar_test_zip_10.zip		https://www.virustotal.com/gui/file/02fa043b8baa34a9d9cc20cf18d97bac4ab5e9107cdc05cacd95f3e0d28e0f1b
+eicar_test_zip_25.zip		https://www.virustotal.com/gui/file/9a76a01d61238d843227d9fb56f49114be017c6a2755b1995e133e7373d99d62
+eicar_test_zip_100.zip		https://www.virustotal.com/gui/file/c12878796df48c14955e93624d3e74e7968fc66e2ed9652abc51a70bf6a38589
+eicar_test_zip_256.zip		https://www.virustotal.com/gui/file/41674fa241b132f4da78ed84585d36dc4cfdcd579d514be2c00ab57bc3b8802f
+eicar_test_zip_512.zip		https://www.virustotal.com/gui/file/0140d4c8b2657eb72f674d627b13244a15e8547ae0500fb36c61da0a58e2864e
+eicar_test_zip_1024.zip		https://www.virustotal.com/gui/file/31f706e186f27c95b1bb180b3f3e461e44d5527eaf9e992a7955d7f0cd486a4d
+eicar_test_zip_2048.zip		https://www.virustotal.com/gui/file/a0f7c4a8581e2f4274a1dc043188705193ac08b6cad7b4392572af8b449758ca
+eicar_test_zip_3000.zip		https://www.virustotal.com/gui/file/0c12a9da904fb615b89cd5e9412c4728c6abd6728d4f7ed01ebb6f1142b39b57
+eicar_test_zip_4000.zip		https://www.virustotal.com/gui/file/5b16f546d38e38bf5198af913d577246e63aeb13f18a6c97b63eb38093dd76e2
+eicar_test_zip_5000.zip		https://www.virustotal.com/gui/file/0e9e72f193a527f7777145dc4bebee31af85ca4e4e5749a4a252b8e5704a74c3
+eicar_test_zip_10000.zip	https://www.virustotal.com/gui/file/7633b4c2ec71bd0bbe61fbd020a11a1b92b4c7f5686cb4553877aa8d793dd34f
