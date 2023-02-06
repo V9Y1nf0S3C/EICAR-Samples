@@ -1,0 +1,9 @@
+Steps to extract (16 Files):
+1.Downlaod the file "EICAR_Samples (Win-L2) (16 Files).zip"
+2.Extract the file "EICAR_Samples (Windows) (16 Files).docx" from the above zip file using password pass1234
+3.Rename the file extension from "EICAR_Samples (Windows) (16 Files).docx" to "EICAR_Samples (Windows) (16 Files).ZIP"
+4.Extract all the files in the "EICAR_Samples (Windows) (16 Files).ZIP" file using password pass1234
+
+SHA256 Checksum:
+EICAR_Samples (Win-L2) (16 Files).zip: EA7C115E78B93D614FAD6919BEBD8AD585F4C536A796859468D889033F8F15A6
+EICAR_Samples (Windows) (16 Files){.zip/.docx}: C95BB5BDB7EAAEC22FFEFA560B0B62FEAA4DC2997E58C206A40F7E8BF137C706
